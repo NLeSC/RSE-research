@@ -1,5 +1,5 @@
 # What do we (not) know about Research Software Engineering?
-This repository contains a [list of questions](./RSE research table of questions.csv) which accompany the ["What do we (not) know about Research Software Engineering?"](https://doi.org/10.5281/zenodo.6395907) paper.
+This repository contains a [list of questions](./RSE%20research%20table%20of%20questions.csv) which accompany the ["What do we (not) know about Research Software Engineering?"](https://doi.org/10.5281/zenodo.6395907) paper.
 
 The list of questions is a CSV file with the following columns:
 
